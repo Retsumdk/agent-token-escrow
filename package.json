@@ -8,7 +8,8 @@
     "build": "tsc"
   },
   "dependencies": {
-    "commander": "^11.1.0"
+    "commander": "^11.1.0",
+    "console-table-printer": "^2.15.0"
   },
   "devDependencies": {
     "bun-types": "^1.0.0",

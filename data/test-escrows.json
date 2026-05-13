@@ -1,0 +1,23 @@
+[
+  {
+    "id": "c049a92a-0d4c-40b4-bafc-36cd74d0ad36",
+    "sender": {
+      "id": "agent-1",
+      "name": "Sender"
+    },
+    "recipient": {
+      "id": "agent-2",
+      "name": "Recipient"
+    },
+    "amount": 10,
+    "tokenSymbol": "AI",
+    "status": "EXPIRED",
+    "condition": {
+      "type": "manual_approval",
+      "value": "agent-1"
+    },
+    "deadline": 1778677795751,
+    "createdAt": 1778677805751,
+    "updatedAt": 1778677805751
+  }
+]
